@@ -20,7 +20,7 @@ The site has a "Dodaj miasto" button. After clicking it a hidden section with th
 ## API
 
 ### IPLocating
-http://ip-api.com/
+https://ipapi.co/
 ```json
 {
   "query": "84.258.81.242",
@@ -31,8 +31,8 @@ http://ip-api.com/
   "regionName": "Greater Poland",
   "city": "Ostrów Wielkopolski",
   "zip": "63-400",
-  "lat": 51.6468,
-  "lon": 17.8108,
+  "latitude": 51.6468,
+  "longitude": 17.8108,
   "timezone": "Europe/Warsaw",
   "isp": "Przedsiebiorstwo Promax Sp. J.",
   "org": "",

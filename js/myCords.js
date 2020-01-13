@@ -1,7 +1,7 @@
 import getWeather from './weather';
 
 const myLocationCords = () => {
-    fetch('https://ipapi.co/json/').then(response => {
+    fetch('https://ipapi.co/json').then(response => {
         if (response.ok) {
             return response.json();
         } else {
